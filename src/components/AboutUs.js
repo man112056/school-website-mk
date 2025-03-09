@@ -8,7 +8,7 @@ const AboutUs = () => (
       About Us
     </Typography>
     <Typography variant="body1" align="center">
-      At Gyan Sthali Public School, Godda, we are committed to nurturing young minds and fostering holistic development. Our mission is to provide quality education that empowers students to become responsible global citizens.
+      At  Public School,, we are committed to nurturing young minds and fostering holistic development. Our mission is to provide quality education that empowers students to become responsible global citizens.
     </Typography>
   </Container>
 );
